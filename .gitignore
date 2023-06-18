@@ -3,3 +3,6 @@
 .bkp
 *.backup
 printer-*.cfg
+
+octoeverywhere.conf
+*shaper_calibrat*.png
